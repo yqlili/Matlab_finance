@@ -1,6 +1,6 @@
 **Matlab for Finance - Individual Assignment**
 
-The purpose of this code is to analyze deal data and conduct various financial analyses including event studies, histograms, descriptive statistics, and regression analysis.
+This repository contains MATLAB code is for an individual assignment in the MATLAB for Finance course at EMLyon Business School. The purpose of this code is to analyze deal data and conduct various financial analyses including event studies, histograms, descriptive statistics, and regression analysis.
 
 **Contents**
 - Data.mat: The data file containing information about deals.
