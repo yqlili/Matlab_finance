@@ -1,4 +1,5 @@
 **Matlab for Finance - Individual Assignment**
+
 The purpose of this code is to analyze deal data and conduct various financial analyses including event studies, histograms, descriptive statistics, and regression analysis.
 
 **Contents**
